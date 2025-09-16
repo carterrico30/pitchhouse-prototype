@@ -1,0 +1,7 @@
+[build]
+  publish = "/"
+  command = ""
+
+[build.environment]
+  # You can specify a Node version if needed, but for static sites, it's not required
+  # NODE_VERSION = "18"
